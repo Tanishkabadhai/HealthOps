@@ -1,0 +1,757 @@
+state_key,facility_level,plan_period,year,functioning_count
+andhra pradesh,Sub Centre,Sixth Plan,1985,6129.0
+arunachal pradesh,Sub Centre,Sixth Plan,1985,55.0
+assam,Sub Centre,Sixth Plan,1985,1711.0
+bihar,Sub Centre,Sixth Plan,1985,8299.0
+chhattisgarh,Sub Centre,Sixth Plan,1985,
+goa,Sub Centre,Sixth Plan,1985,156.0
+gujarat,Sub Centre,Sixth Plan,1985,4869.0
+haryana,Sub Centre,Sixth Plan,1985,1591.0
+himachal pradesh,Sub Centre,Sixth Plan,1985,1299.0
+jammu and kashmir,Sub Centre,Sixth Plan,1985,609.0
+jharkhand,Sub Centre,Sixth Plan,1985,
+karnataka,Sub Centre,Sixth Plan,1985,4964.0
+kerala,Sub Centre,Sixth Plan,1985,2270.0
+madhya pradesh,Sub Centre,Sixth Plan,1985,6615.0
+maharashtra,Sub Centre,Sixth Plan,1985,6391.0
+manipur,Sub Centre,Sixth Plan,1985,301.0
+meghalaya,Sub Centre,Sixth Plan,1985,172.0
+mizoram,Sub Centre,Sixth Plan,1985,162.0
+nagaland,Sub Centre,Sixth Plan,1985,133.0
+odisha,Sub Centre,Sixth Plan,1985,4127.0
+punjab,Sub Centre,Sixth Plan,1985,2602.0
+rajasthan,Sub Centre,Sixth Plan,1985,3790.0
+sikkim,Sub Centre,Sixth Plan,1985,82.0
+tamil nadu,Sub Centre,Sixth Plan,1985,5860.0
+telangana,Sub Centre,Sixth Plan,1985,
+tripura,Sub Centre,Sixth Plan,1985,230.0
+uttarakhand,Sub Centre,Sixth Plan,1985,
+uttar pradesh,Sub Centre,Sixth Plan,1985,15653.0
+west bengal,Sub Centre,Sixth Plan,1985,6100.0
+a and n islands,Sub Centre,Sixth Plan,1985,32.0
+chandigarh,Sub Centre,Sixth Plan,1985,12.0
+dadra and nagar haveli,Sub Centre,Sixth Plan,1985,19.0
+daman and diu,Sub Centre,Sixth Plan,1985,14.0
+delhi,Sub Centre,Sixth Plan,1985,42.0
+lakshadweep,Sub Centre,Sixth Plan,1985,14.0
+puducherry,Sub Centre,Sixth Plan,1985,73.0
+andhra pradesh,Sub Centre,Seventh Plan,1990,7894.0
+arunachal pradesh,Sub Centre,Seventh Plan,1990,155.0
+assam,Sub Centre,Seventh Plan,1990,5109.0
+bihar,Sub Centre,Seventh Plan,1990,14799.0
+chhattisgarh,Sub Centre,Seventh Plan,1990,
+goa,Sub Centre,Seventh Plan,1990,166.0
+gujarat,Sub Centre,Seventh Plan,1990,6834.0
+haryana,Sub Centre,Seventh Plan,1990,2299.0
+himachal pradesh,Sub Centre,Seventh Plan,1990,1851.0
+jammu and kashmir,Sub Centre,Seventh Plan,1990,1460.0
+jharkhand,Sub Centre,Seventh Plan,1990,
+karnataka,Sub Centre,Seventh Plan,1990,7793.0
+kerala,Sub Centre,Seventh Plan,1990,5094.0
+madhya pradesh,Sub Centre,Seventh Plan,1990,11910.0
+maharashtra,Sub Centre,Seventh Plan,1990,9248.0
+manipur,Sub Centre,Seventh Plan,1990,420.0
+meghalaya,Sub Centre,Seventh Plan,1990,272.0
+mizoram,Sub Centre,Seventh Plan,1990,220.0
+nagaland,Sub Centre,Seventh Plan,1990,244.0
+odisha,Sub Centre,Seventh Plan,1990,5927.0
+punjab,Sub Centre,Seventh Plan,1990,2852.0
+rajasthan,Sub Centre,Seventh Plan,1990,8000.0
+sikkim,Sub Centre,Seventh Plan,1990,132.0
+tamil nadu,Sub Centre,Seventh Plan,1990,8681.0
+telangana,Sub Centre,Seventh Plan,1990,
+tripura,Sub Centre,Seventh Plan,1990,506.0
+uttarakhand,Sub Centre,Seventh Plan,1990,
+uttar pradesh,Sub Centre,Seventh Plan,1990,20153.0
+west bengal,Sub Centre,Seventh Plan,1990,7873.0
+a and n islands,Sub Centre,Seventh Plan,1990,84.0
+chandigarh,Sub Centre,Seventh Plan,1990,12.0
+dadra and nagar haveli,Sub Centre,Seventh Plan,1990,34.0
+daman and diu,Sub Centre,Seventh Plan,1990,14.0
+delhi,Sub Centre,Seventh Plan,1990,42.0
+lakshadweep,Sub Centre,Seventh Plan,1990,14.0
+puducherry,Sub Centre,Seventh Plan,1990,73.0
+andhra pradesh,Sub Centre,Eigth Plan,1997,10568.0
+arunachal pradesh,Sub Centre,Eigth Plan,1997,223.0
+assam,Sub Centre,Eigth Plan,1997,5109.0
+bihar,Sub Centre,Eigth Plan,1997,14799.0
+chhattisgarh,Sub Centre,Eigth Plan,1997,
+goa,Sub Centre,Eigth Plan,1997,172.0
+gujarat,Sub Centre,Eigth Plan,1997,7274.0
+haryana,Sub Centre,Eigth Plan,1997,2299.0
+himachal pradesh,Sub Centre,Eigth Plan,1997,1980.0
+jammu and kashmir,Sub Centre,Eigth Plan,1997,1700.0
+jharkhand,Sub Centre,Eigth Plan,1997,
+karnataka,Sub Centre,Eigth Plan,1997,8143.0
+kerala,Sub Centre,Eigth Plan,1997,5094.0
+madhya pradesh,Sub Centre,Eigth Plan,1997,11938.0
+maharashtra,Sub Centre,Eigth Plan,1997,9725.0
+manipur,Sub Centre,Eigth Plan,1997,420.0
+meghalaya,Sub Centre,Eigth Plan,1997,377.0
+mizoram,Sub Centre,Eigth Plan,1997,324.0
+nagaland,Sub Centre,Eigth Plan,1997,244.0
+odisha,Sub Centre,Eigth Plan,1997,5927.0
+punjab,Sub Centre,Eigth Plan,1997,2852.0
+rajasthan,Sub Centre,Eigth Plan,1997,9400.0
+sikkim,Sub Centre,Eigth Plan,1997,147.0
+tamil nadu,Sub Centre,Eigth Plan,1997,8681.0
+telangana,Sub Centre,Eigth Plan,1997,
+tripura,Sub Centre,Eigth Plan,1997,537.0
+uttarakhand,Sub Centre,Eigth Plan,1997,
+uttar pradesh,Sub Centre,Eigth Plan,1997,20153.0
+west bengal,Sub Centre,Eigth Plan,1997,7873.0
+a and n islands,Sub Centre,Eigth Plan,1997,96.0
+chandigarh,Sub Centre,Eigth Plan,1997,12.0
+dadra and nagar haveli,Sub Centre,Eigth Plan,1997,34.0
+daman and diu,Sub Centre,Eigth Plan,1997,21.0
+delhi,Sub Centre,Eigth Plan,1997,42.0
+lakshadweep,Sub Centre,Eigth Plan,1997,14.0
+puducherry,Sub Centre,Eigth Plan,1997,80.0
+andhra pradesh,Sub Centre,Ninth Plan,2002,10568.0
+arunachal pradesh,Sub Centre,Ninth Plan,2002,273.0
+assam,Sub Centre,Ninth Plan,2002,5109.0
+bihar,Sub Centre,Ninth Plan,2002,14799.0
+chhattisgarh,Sub Centre,Ninth Plan,2002,
+goa,Sub Centre,Ninth Plan,2002,172.0
+gujarat,Sub Centre,Ninth Plan,2002,7274.0
+haryana,Sub Centre,Ninth Plan,2002,2299.0
+himachal pradesh,Sub Centre,Ninth Plan,2002,2069.0
+jammu and kashmir,Sub Centre,Ninth Plan,2002,1700.0
+jharkhand,Sub Centre,Ninth Plan,2002,
+karnataka,Sub Centre,Ninth Plan,2002,8143.0
+kerala,Sub Centre,Ninth Plan,2002,5094.0
+madhya pradesh,Sub Centre,Ninth Plan,2002,11947.0
+maharashtra,Sub Centre,Ninth Plan,2002,9725.0
+manipur,Sub Centre,Ninth Plan,2002,420.0
+meghalaya,Sub Centre,Ninth Plan,2002,413.0
+mizoram,Sub Centre,Ninth Plan,2002,346.0
+nagaland,Sub Centre,Ninth Plan,2002,302.0
+odisha,Sub Centre,Ninth Plan,2002,5927.0
+punjab,Sub Centre,Ninth Plan,2002,2852.0
+rajasthan,Sub Centre,Ninth Plan,2002,9926.0
+sikkim,Sub Centre,Ninth Plan,2002,147.0
+tamil nadu,Sub Centre,Ninth Plan,2002,8682.0
+telangana,Sub Centre,Ninth Plan,2002,
+tripura,Sub Centre,Ninth Plan,2002,539.0
+uttarakhand,Sub Centre,Ninth Plan,2002,
+uttar pradesh,Sub Centre,Ninth Plan,2002,20153.0
+west bengal,Sub Centre,Ninth Plan,2002,8126.0
+a and n islands,Sub Centre,Ninth Plan,2002,100.0
+chandigarh,Sub Centre,Ninth Plan,2002,13.0
+dadra and nagar haveli,Sub Centre,Ninth Plan,2002,36.0
+daman and diu,Sub Centre,Ninth Plan,2002,21.0
+delhi,Sub Centre,Ninth Plan,2002,42.0
+lakshadweep,Sub Centre,Ninth Plan,2002,14.0
+puducherry,Sub Centre,Ninth Plan,2002,80.0
+andhra pradesh,Sub Centre,Tenth Plan,2007,12522.0
+arunachal pradesh,Sub Centre,Tenth Plan,2007,379.0
+assam,Sub Centre,Tenth Plan,2007,5109.0
+bihar,Sub Centre,Tenth Plan,2007,8909.0
+chhattisgarh,Sub Centre,Tenth Plan,2007,4692.0
+goa,Sub Centre,Tenth Plan,2007,172.0
+gujarat,Sub Centre,Tenth Plan,2007,7274.0
+haryana,Sub Centre,Tenth Plan,2007,2433.0
+himachal pradesh,Sub Centre,Tenth Plan,2007,2071.0
+jammu and kashmir,Sub Centre,Tenth Plan,2007,1888.0
+jharkhand,Sub Centre,Tenth Plan,2007,3958.0
+karnataka,Sub Centre,Tenth Plan,2007,8143.0
+kerala,Sub Centre,Tenth Plan,2007,5094.0
+madhya pradesh,Sub Centre,Tenth Plan,2007,8834.0
+maharashtra,Sub Centre,Tenth Plan,2007,10453.0
+manipur,Sub Centre,Tenth Plan,2007,420.0
+meghalaya,Sub Centre,Tenth Plan,2007,398.0
+mizoram,Sub Centre,Tenth Plan,2007,366.0
+nagaland,Sub Centre,Tenth Plan,2007,397.0
+odisha,Sub Centre,Tenth Plan,2007,5927.0
+punjab,Sub Centre,Tenth Plan,2007,2858.0
+rajasthan,Sub Centre,Tenth Plan,2007,10612.0
+sikkim,Sub Centre,Tenth Plan,2007,147.0
+tamil nadu,Sub Centre,Tenth Plan,2007,8683.0
+telangana,Sub Centre,Tenth Plan,2007,
+tripura,Sub Centre,Tenth Plan,2007,579.0
+uttarakhand,Sub Centre,Tenth Plan,2007,1765.0
+uttar pradesh,Sub Centre,Tenth Plan,2007,20521.0
+west bengal,Sub Centre,Tenth Plan,2007,10356.0
+a and n islands,Sub Centre,Tenth Plan,2007,108.0
+chandigarh,Sub Centre,Tenth Plan,2007,13.0
+dadra and nagar haveli,Sub Centre,Tenth Plan,2007,38.0
+daman and diu,Sub Centre,Tenth Plan,2007,21.0
+delhi,Sub Centre,Tenth Plan,2007,41.0
+lakshadweep,Sub Centre,Tenth Plan,2007,14.0
+puducherry,Sub Centre,Tenth Plan,2007,77.0
+andhra pradesh,Sub Centre,Eleventh Plan,2012,12522.0
+arunachal pradesh,Sub Centre,Eleventh Plan,2012,286.0
+assam,Sub Centre,Eleventh Plan,2012,4604.0
+bihar,Sub Centre,Eleventh Plan,2012,9696.0
+chhattisgarh,Sub Centre,Eleventh Plan,2012,5111.0
+goa,Sub Centre,Eleventh Plan,2012,205.0
+gujarat,Sub Centre,Eleventh Plan,2012,7274.0
+haryana,Sub Centre,Eleventh Plan,2012,2520.0
+himachal pradesh,Sub Centre,Eleventh Plan,2012,2065.0
+jammu and kashmir,Sub Centre,Eleventh Plan,2012,1907.0
+jharkhand,Sub Centre,Eleventh Plan,2012,3958.0
+karnataka,Sub Centre,Eleventh Plan,2012,8871.0
+kerala,Sub Centre,Eleventh Plan,2012,4575.0
+madhya pradesh,Sub Centre,Eleventh Plan,2012,8869.0
+maharashtra,Sub Centre,Eleventh Plan,2012,10580.0
+manipur,Sub Centre,Eleventh Plan,2012,420.0
+meghalaya,Sub Centre,Eleventh Plan,2012,397.0
+mizoram,Sub Centre,Eleventh Plan,2012,370.0
+nagaland,Sub Centre,Eleventh Plan,2012,396.0
+odisha,Sub Centre,Eleventh Plan,2012,6688.0
+punjab,Sub Centre,Eleventh Plan,2012,2951.0
+rajasthan,Sub Centre,Eleventh Plan,2012,11487.0
+sikkim,Sub Centre,Eleventh Plan,2012,147.0
+tamil nadu,Sub Centre,Eleventh Plan,2012,8706.0
+telangana,Sub Centre,Eleventh Plan,2012,
+tripura,Sub Centre,Eleventh Plan,2012,719.0
+uttarakhand,Sub Centre,Eleventh Plan,2012,1848.0
+uttar pradesh,Sub Centre,Eleventh Plan,2012,20521.0
+west bengal,Sub Centre,Eleventh Plan,2012,10356.0
+a and n islands,Sub Centre,Eleventh Plan,2012,119.0
+chandigarh,Sub Centre,Eleventh Plan,2012,16.0
+dadra and nagar haveli,Sub Centre,Eleventh Plan,2012,50.0
+daman and diu,Sub Centre,Eleventh Plan,2012,26.0
+delhi,Sub Centre,Eleventh Plan,2012,41.0
+lakshadweep,Sub Centre,Eleventh Plan,2012,14.0
+puducherry,Sub Centre,Eleventh Plan,2012,51.0
+andhra pradesh,Sub Centre,Twelth Plan,2017,7458.0
+arunachal pradesh,Sub Centre,Twelth Plan,2017,312.0
+assam,Sub Centre,Twelth Plan,2017,4621.0
+bihar,Sub Centre,Twelth Plan,2017,9949.0
+chhattisgarh,Sub Centre,Twelth Plan,2017,5186.0
+goa,Sub Centre,Twelth Plan,2017,214.0
+gujarat,Sub Centre,Twelth Plan,2017,9082.0
+haryana,Sub Centre,Twelth Plan,2017,2589.0
+himachal pradesh,Sub Centre,Twelth Plan,2017,2083.0
+jammu and kashmir,Sub Centre,Twelth Plan,2017,2967.0
+jharkhand,Sub Centre,Twelth Plan,2017,3848.0
+karnataka,Sub Centre,Twelth Plan,2017,9381.0
+kerala,Sub Centre,Twelth Plan,2017,5380.0
+madhya pradesh,Sub Centre,Twelth Plan,2017,9192.0
+maharashtra,Sub Centre,Twelth Plan,2017,10580.0
+manipur,Sub Centre,Twelth Plan,2017,421.0
+meghalaya,Sub Centre,Twelth Plan,2017,436.0
+mizoram,Sub Centre,Twelth Plan,2017,370.0
+nagaland,Sub Centre,Twelth Plan,2017,396.0
+odisha,Sub Centre,Twelth Plan,2017,6688.0
+punjab,Sub Centre,Twelth Plan,2017,2950.0
+rajasthan,Sub Centre,Twelth Plan,2017,14406.0
+sikkim,Sub Centre,Twelth Plan,2017,147.0
+tamil nadu,Sub Centre,Twelth Plan,2017,8712.0
+telangana,Sub Centre,Twelth Plan,2017,4797.0
+tripura,Sub Centre,Twelth Plan,2017,987.0
+uttarakhand,Sub Centre,Twelth Plan,2017,1847.0
+uttar pradesh,Sub Centre,Twelth Plan,2017,20521.0
+west bengal,Sub Centre,Twelth Plan,2017,10369.0
+a and n islands,Sub Centre,Twelth Plan,2017,123.0
+chandigarh,Sub Centre,Twelth Plan,2017,17.0
+dadra and nagar haveli,Sub Centre,Twelth Plan,2017,71.0
+daman and diu,Sub Centre,Twelth Plan,2017,26.0
+delhi,Sub Centre,Twelth Plan,2017,10.0
+lakshadweep,Sub Centre,Twelth Plan,2017,14.0
+puducherry,Sub Centre,Twelth Plan,2017,81.0
+andhra pradesh,PHC,Sixth Plan,1985,555.0
+arunachal pradesh,PHC,Sixth Plan,1985,0.0
+assam,PHC,Sixth Plan,1985,237.0
+bihar,PHC,Sixth Plan,1985,796.0
+chhattisgarh,PHC,Sixth Plan,1985,
+goa,PHC,Sixth Plan,1985,13.0
+gujarat,PHC,Sixth Plan,1985,310.0
+haryana,PHC,Sixth Plan,1985,163.0
+himachal pradesh,PHC,Sixth Plan,1985,106.0
+jammu and kashmir,PHC,Sixth Plan,1985,123.0
+jharkhand,PHC,Sixth Plan,1985,
+karnataka,PHC,Sixth Plan,1985,365.0
+kerala,PHC,Sixth Plan,1985,199.0
+madhya pradesh,PHC,Sixth Plan,1985,680.0
+maharashtra,PHC,Sixth Plan,1985,1539.0
+manipur,PHC,Sixth Plan,1985,31.0
+meghalaya,PHC,Sixth Plan,1985,32.0
+mizoram,PHC,Sixth Plan,1985,19.0
+nagaland,PHC,Sixth Plan,1985,21.0
+odisha,PHC,Sixth Plan,1985,484.0
+punjab,PHC,Sixth Plan,1985,130.0
+rajasthan,PHC,Sixth Plan,1985,448.0
+sikkim,PHC,Sixth Plan,1985,18.0
+tamil nadu,PHC,Sixth Plan,1985,436.0
+telangana,PHC,Sixth Plan,1985,
+tripura,PHC,Sixth Plan,1985,32.0
+uttarakhand,PHC,Sixth Plan,1985,
+uttar pradesh,PHC,Sixth Plan,1985,1169.0
+west bengal,PHC,Sixth Plan,1985,1172.0
+a and n islands,PHC,Sixth Plan,1985,6.0
+chandigarh,PHC,Sixth Plan,1985,0.0
+dadra and nagar haveli,PHC,Sixth Plan,1985,3.0
+daman and diu,PHC,Sixth Plan,1985,2.0
+delhi,PHC,Sixth Plan,1985,8.0
+lakshadweep,PHC,Sixth Plan,1985,4.0
+puducherry,PHC,Sixth Plan,1985,14.0
+andhra pradesh,PHC,Seventh Plan,1990,1283.0
+arunachal pradesh,PHC,Seventh Plan,1990,24.0
+assam,PHC,Seventh Plan,1990,449.0
+bihar,PHC,Seventh Plan,1990,2001.0
+chhattisgarh,PHC,Seventh Plan,1990,
+goa,PHC,Seventh Plan,1990,17.0
+gujarat,PHC,Seventh Plan,1990,842.0
+haryana,PHC,Seventh Plan,1990,366.0
+himachal pradesh,PHC,Seventh Plan,1990,190.0
+jammu and kashmir,PHC,Seventh Plan,1990,266.0
+jharkhand,PHC,Seventh Plan,1990,
+karnataka,PHC,Seventh Plan,1990,1142.0
+kerala,PHC,Seventh Plan,1990,908.0
+madhya pradesh,PHC,Seventh Plan,1990,1181.0
+maharashtra,PHC,Seventh Plan,1990,1671.0
+manipur,PHC,Seventh Plan,1990,64.0
+meghalaya,PHC,Seventh Plan,1990,56.0
+mizoram,PHC,Seventh Plan,1990,35.0
+nagaland,PHC,Seventh Plan,1990,33.0
+odisha,PHC,Seventh Plan,1990,875.0
+punjab,PHC,Seventh Plan,1990,460.0
+rajasthan,PHC,Seventh Plan,1990,1048.0
+sikkim,PHC,Seventh Plan,1990,20.0
+tamil nadu,PHC,Seventh Plan,1990,1386.0
+telangana,PHC,Seventh Plan,1990,
+tripura,PHC,Seventh Plan,1990,49.0
+uttarakhand,PHC,Seventh Plan,1990,
+uttar pradesh,PHC,Seventh Plan,1990,3000.0
+west bengal,PHC,Seventh Plan,1990,1250.0
+a and n islands,PHC,Seventh Plan,1990,14.0
+chandigarh,PHC,Seventh Plan,1990,0.0
+dadra and nagar haveli,PHC,Seventh Plan,1990,5.0
+daman and diu,PHC,Seventh Plan,1990,2.0
+delhi,PHC,Seventh Plan,1990,8.0
+lakshadweep,PHC,Seventh Plan,1990,4.0
+puducherry,PHC,Seventh Plan,1990,22.0
+andhra pradesh,PHC,Eigth Plan,1997,1335.0
+arunachal pradesh,PHC,Eigth Plan,1997,45.0
+assam,PHC,Eigth Plan,1997,610.0
+bihar,PHC,Eigth Plan,1997,2209.0
+chhattisgarh,PHC,Eigth Plan,1997,
+goa,PHC,Eigth Plan,1997,17.0
+gujarat,PHC,Eigth Plan,1997,960.0
+haryana,PHC,Eigth Plan,1997,399.0
+himachal pradesh,PHC,Eigth Plan,1997,260.0
+jammu and kashmir,PHC,Eigth Plan,1997,335.0
+jharkhand,PHC,Eigth Plan,1997,
+karnataka,PHC,Eigth Plan,1997,1601.0
+kerala,PHC,Eigth Plan,1997,938.0
+madhya pradesh,PHC,Eigth Plan,1997,1690.0
+maharashtra,PHC,Eigth Plan,1997,1695.0
+manipur,PHC,Eigth Plan,1997,69.0
+meghalaya,PHC,Eigth Plan,1997,81.0
+mizoram,PHC,Eigth Plan,1997,55.0
+nagaland,PHC,Eigth Plan,1997,33.0
+odisha,PHC,Eigth Plan,1997,1102.0
+punjab,PHC,Eigth Plan,1997,484.0
+rajasthan,PHC,Eigth Plan,1997,1616.0
+sikkim,PHC,Eigth Plan,1997,24.0
+tamil nadu,PHC,Eigth Plan,1997,1436.0
+telangana,PHC,Eigth Plan,1997,
+tripura,PHC,Eigth Plan,1997,55.0
+uttarakhand,PHC,Eigth Plan,1997,
+uttar pradesh,PHC,Eigth Plan,1997,3761.0
+west bengal,PHC,Eigth Plan,1997,1262.0
+a and n islands,PHC,Eigth Plan,1997,17.0
+chandigarh,PHC,Eigth Plan,1997,0.0
+dadra and nagar haveli,PHC,Eigth Plan,1997,6.0
+daman and diu,PHC,Eigth Plan,1997,3.0
+delhi,PHC,Eigth Plan,1997,8.0
+lakshadweep,PHC,Eigth Plan,1997,4.0
+puducherry,PHC,Eigth Plan,1997,39.0
+andhra pradesh,PHC,Ninth Plan,2002,1386.0
+arunachal pradesh,PHC,Ninth Plan,2002,65.0
+assam,PHC,Ninth Plan,2002,610.0
+bihar,PHC,Ninth Plan,2002,2209.0
+chhattisgarh,PHC,Ninth Plan,2002,
+goa,PHC,Ninth Plan,2002,19.0
+gujarat,PHC,Ninth Plan,2002,1032.0
+haryana,PHC,Ninth Plan,2002,403.0
+himachal pradesh,PHC,Ninth Plan,2002,302.0
+jammu and kashmir,PHC,Ninth Plan,2002,337.0
+jharkhand,PHC,Ninth Plan,2002,
+karnataka,PHC,Ninth Plan,2002,1676.0
+kerala,PHC,Ninth Plan,2002,944.0
+madhya pradesh,PHC,Ninth Plan,2002,1690.0
+maharashtra,PHC,Ninth Plan,2002,1768.0
+manipur,PHC,Ninth Plan,2002,69.0
+meghalaya,PHC,Ninth Plan,2002,85.0
+mizoram,PHC,Ninth Plan,2002,58.0
+nagaland,PHC,Ninth Plan,2002,46.0
+odisha,PHC,Ninth Plan,2002,1352.0
+punjab,PHC,Ninth Plan,2002,484.0
+rajasthan,PHC,Ninth Plan,2002,1674.0
+sikkim,PHC,Ninth Plan,2002,24.0
+tamil nadu,PHC,Ninth Plan,2002,1436.0
+telangana,PHC,Ninth Plan,2002,
+tripura,PHC,Ninth Plan,2002,58.0
+uttarakhand,PHC,Ninth Plan,2002,
+uttar pradesh,PHC,Ninth Plan,2002,3808.0
+west bengal,PHC,Ninth Plan,2002,1262.0
+a and n islands,PHC,Ninth Plan,2002,18.0
+chandigarh,PHC,Ninth Plan,2002,0.0
+dadra and nagar haveli,PHC,Ninth Plan,2002,6.0
+daman and diu,PHC,Ninth Plan,2002,3.0
+delhi,PHC,Ninth Plan,2002,8.0
+lakshadweep,PHC,Ninth Plan,2002,4.0
+puducherry,PHC,Ninth Plan,2002,39.0
+andhra pradesh,PHC,Tenth Plan,2007,1570.0
+arunachal pradesh,PHC,Tenth Plan,2007,85.0
+assam,PHC,Tenth Plan,2007,610.0
+bihar,PHC,Tenth Plan,2007,1648.0
+chhattisgarh,PHC,Tenth Plan,2007,518.0
+goa,PHC,Tenth Plan,2007,19.0
+gujarat,PHC,Tenth Plan,2007,1073.0
+haryana,PHC,Tenth Plan,2007,411.0
+himachal pradesh,PHC,Tenth Plan,2007,443.0
+jammu and kashmir,PHC,Tenth Plan,2007,374.0
+jharkhand,PHC,Tenth Plan,2007,330.0
+karnataka,PHC,Tenth Plan,2007,1679.0
+kerala,PHC,Tenth Plan,2007,909.0
+madhya pradesh,PHC,Tenth Plan,2007,1149.0
+maharashtra,PHC,Tenth Plan,2007,1800.0
+manipur,PHC,Tenth Plan,2007,72.0
+meghalaya,PHC,Tenth Plan,2007,103.0
+mizoram,PHC,Tenth Plan,2007,57.0
+nagaland,PHC,Tenth Plan,2007,84.0
+odisha,PHC,Tenth Plan,2007,1279.0
+punjab,PHC,Tenth Plan,2007,484.0
+rajasthan,PHC,Tenth Plan,2007,1499.0
+sikkim,PHC,Tenth Plan,2007,24.0
+tamil nadu,PHC,Tenth Plan,2007,1181.0
+telangana,PHC,Tenth Plan,2007,
+tripura,PHC,Tenth Plan,2007,75.0
+uttarakhand,PHC,Tenth Plan,2007,232.0
+uttar pradesh,PHC,Tenth Plan,2007,3660.0
+west bengal,PHC,Tenth Plan,2007,922.0
+a and n islands,PHC,Tenth Plan,2007,20.0
+chandigarh,PHC,Tenth Plan,2007,0.0
+dadra and nagar haveli,PHC,Tenth Plan,2007,6.0
+daman and diu,PHC,Tenth Plan,2007,3.0
+delhi,PHC,Tenth Plan,2007,8.0
+lakshadweep,PHC,Tenth Plan,2007,4.0
+puducherry,PHC,Tenth Plan,2007,39.0
+andhra pradesh,PHC,Eleventh Plan,2012,1624.0
+arunachal pradesh,PHC,Eleventh Plan,2012,97.0
+assam,PHC,Eleventh Plan,2012,975.0
+bihar,PHC,Eleventh Plan,2012,1863.0
+chhattisgarh,PHC,Eleventh Plan,2012,755.0
+goa,PHC,Eleventh Plan,2012,19.0
+gujarat,PHC,Eleventh Plan,2012,1158.0
+haryana,PHC,Eleventh Plan,2012,447.0
+himachal pradesh,PHC,Eleventh Plan,2012,472.0
+jammu and kashmir,PHC,Eleventh Plan,2012,396.0
+jharkhand,PHC,Eleventh Plan,2012,330.0
+karnataka,PHC,Eleventh Plan,2012,2310.0
+kerala,PHC,Eleventh Plan,2012,809.0
+madhya pradesh,PHC,Eleventh Plan,2012,1156.0
+maharashtra,PHC,Eleventh Plan,2012,1811.0
+manipur,PHC,Eleventh Plan,2012,80.0
+meghalaya,PHC,Eleventh Plan,2012,109.0
+mizoram,PHC,Eleventh Plan,2012,57.0
+nagaland,PHC,Eleventh Plan,2012,126.0
+odisha,PHC,Eleventh Plan,2012,1226.0
+punjab,PHC,Eleventh Plan,2012,449.0
+rajasthan,PHC,Eleventh Plan,2012,1528.0
+sikkim,PHC,Eleventh Plan,2012,24.0
+tamil nadu,PHC,Eleventh Plan,2012,1227.0
+telangana,PHC,Eleventh Plan,2012,
+tripura,PHC,Eleventh Plan,2012,79.0
+uttarakhand,PHC,Eleventh Plan,2012,257.0
+uttar pradesh,PHC,Eleventh Plan,2012,3692.0
+west bengal,PHC,Eleventh Plan,2012,909.0
+a and n islands,PHC,Eleventh Plan,2012,22.0
+chandigarh,PHC,Eleventh Plan,2012,0.0
+dadra and nagar haveli,PHC,Eleventh Plan,2012,6.0
+daman and diu,PHC,Eleventh Plan,2012,3.0
+delhi,PHC,Eleventh Plan,2012,5.0
+lakshadweep,PHC,Eleventh Plan,2012,4.0
+puducherry,PHC,Eleventh Plan,2012,24.0
+andhra pradesh,PHC,Twelth Plan,2017,1147.0
+arunachal pradesh,PHC,Twelth Plan,2017,143.0
+assam,PHC,Twelth Plan,2017,1014.0
+bihar,PHC,Twelth Plan,2017,1899.0
+chhattisgarh,PHC,Twelth Plan,2017,785.0
+goa,PHC,Twelth Plan,2017,24.0
+gujarat,PHC,Twelth Plan,2017,1392.0
+haryana,PHC,Twelth Plan,2017,366.0
+himachal pradesh,PHC,Twelth Plan,2017,538.0
+jammu and kashmir,PHC,Twelth Plan,2017,637.0
+jharkhand,PHC,Twelth Plan,2017,297.0
+karnataka,PHC,Twelth Plan,2017,2359.0
+kerala,PHC,Twelth Plan,2017,849.0
+madhya pradesh,PHC,Twelth Plan,2017,1171.0
+maharashtra,PHC,Twelth Plan,2017,1814.0
+manipur,PHC,Twelth Plan,2017,85.0
+meghalaya,PHC,Twelth Plan,2017,109.0
+mizoram,PHC,Twelth Plan,2017,57.0
+nagaland,PHC,Twelth Plan,2017,126.0
+odisha,PHC,Twelth Plan,2017,1280.0
+punjab,PHC,Twelth Plan,2017,432.0
+rajasthan,PHC,Twelth Plan,2017,2079.0
+sikkim,PHC,Twelth Plan,2017,24.0
+tamil nadu,PHC,Twelth Plan,2017,1362.0
+telangana,PHC,Twelth Plan,2017,689.0
+tripura,PHC,Twelth Plan,2017,93.0
+uttarakhand,PHC,Twelth Plan,2017,257.0
+uttar pradesh,PHC,Twelth Plan,2017,3621.0
+west bengal,PHC,Twelth Plan,2017,914.0
+a and n islands,PHC,Twelth Plan,2017,22.0
+chandigarh,PHC,Twelth Plan,2017,3.0
+dadra and nagar haveli,PHC,Twelth Plan,2017,9.0
+daman and diu,PHC,Twelth Plan,2017,4.0
+delhi,PHC,Twelth Plan,2017,5.0
+lakshadweep,PHC,Twelth Plan,2017,4.0
+puducherry,PHC,Twelth Plan,2017,40.0
+andhra pradesh,CHC,Sixth Plan,1985,27.0
+arunachal pradesh,CHC,Sixth Plan,1985,0.0
+assam,CHC,Sixth Plan,1985,12.0
+bihar,CHC,Sixth Plan,1985,52.0
+chhattisgarh,CHC,Sixth Plan,1985,
+goa,CHC,Sixth Plan,1985,3.0
+gujarat,CHC,Sixth Plan,1985,22.0
+haryana,CHC,Sixth Plan,1985,2.0
+himachal pradesh,CHC,Sixth Plan,1985,28.0
+jammu and kashmir,CHC,Sixth Plan,1985,19.0
+jharkhand,CHC,Sixth Plan,1985,
+karnataka,CHC,Sixth Plan,1985,98.0
+kerala,CHC,Sixth Plan,1985,4.0
+madhya pradesh,CHC,Sixth Plan,1985,58.0
+maharashtra,CHC,Sixth Plan,1985,147.0
+manipur,CHC,Sixth Plan,1985,6.0
+meghalaya,CHC,Sixth Plan,1985,3.0
+mizoram,CHC,Sixth Plan,1985,1.0
+nagaland,CHC,Sixth Plan,1985,1.0
+odisha,CHC,Sixth Plan,1985,59.0
+punjab,CHC,Sixth Plan,1985,10.0
+rajasthan,CHC,Sixth Plan,1985,76.0
+sikkim,CHC,Sixth Plan,1985,0.0
+tamil nadu,CHC,Sixth Plan,1985,30.0
+telangana,CHC,Sixth Plan,1985,
+tripura,CHC,Sixth Plan,1985,3.0
+uttarakhand,CHC,Sixth Plan,1985,
+uttar pradesh,CHC,Sixth Plan,1985,74.0
+west bengal,CHC,Sixth Plan,1985,23.0
+a and n islands,CHC,Sixth Plan,1985,0.0
+chandigarh,CHC,Sixth Plan,1985,1.0
+dadra and nagar haveli,CHC,Sixth Plan,1985,0.0
+daman and diu,CHC,Sixth Plan,1985,0.0
+delhi,CHC,Sixth Plan,1985,0.0
+lakshadweep,CHC,Sixth Plan,1985,1.0
+puducherry,CHC,Sixth Plan,1985,1.0
+andhra pradesh,CHC,Seventh Plan,1990,46.0
+arunachal pradesh,CHC,Seventh Plan,1990,6.0
+assam,CHC,Seventh Plan,1990,60.0
+bihar,CHC,Seventh Plan,1990,147.0
+chhattisgarh,CHC,Seventh Plan,1990,
+goa,CHC,Seventh Plan,1990,5.0
+gujarat,CHC,Seventh Plan,1990,143.0
+haryana,CHC,Seventh Plan,1990,41.0
+himachal pradesh,CHC,Seventh Plan,1990,35.0
+jammu and kashmir,CHC,Seventh Plan,1990,33.0
+jharkhand,CHC,Seventh Plan,1990,
+karnataka,CHC,Seventh Plan,1990,156.0
+kerala,CHC,Seventh Plan,1990,54.0
+madhya pradesh,CHC,Seventh Plan,1990,172.0
+maharashtra,CHC,Seventh Plan,1990,290.0
+manipur,CHC,Seventh Plan,1990,10.0
+meghalaya,CHC,Seventh Plan,1990,3.0
+mizoram,CHC,Seventh Plan,1990,4.0
+nagaland,CHC,Seventh Plan,1990,4.0
+odisha,CHC,Seventh Plan,1990,92.0
+punjab,CHC,Seventh Plan,1990,70.0
+rajasthan,CHC,Seventh Plan,1990,185.0
+sikkim,CHC,Seventh Plan,1990,2.0
+tamil nadu,CHC,Seventh Plan,1990,72.0
+telangana,CHC,Seventh Plan,1990,
+tripura,CHC,Seventh Plan,1990,8.0
+uttarakhand,CHC,Seventh Plan,1990,
+uttar pradesh,CHC,Seventh Plan,1990,177.0
+west bengal,CHC,Seventh Plan,1990,87.0
+a and n islands,CHC,Seventh Plan,1990,3.0
+chandigarh,CHC,Seventh Plan,1990,1.0
+dadra and nagar haveli,CHC,Seventh Plan,1990,0.0
+daman and diu,CHC,Seventh Plan,1990,0.0
+delhi,CHC,Seventh Plan,1990,0.0
+lakshadweep,CHC,Seventh Plan,1990,1.0
+puducherry,CHC,Seventh Plan,1990,3.0
+andhra pradesh,CHC,Eigth Plan,1997,207.0
+arunachal pradesh,CHC,Eigth Plan,1997,9.0
+assam,CHC,Eigth Plan,1997,100.0
+bihar,CHC,Eigth Plan,1997,148.0
+chhattisgarh,CHC,Eigth Plan,1997,
+goa,CHC,Eigth Plan,1997,5.0
+gujarat,CHC,Eigth Plan,1997,185.0
+haryana,CHC,Eigth Plan,1997,63.0
+himachal pradesh,CHC,Eigth Plan,1997,42.0
+jammu and kashmir,CHC,Eigth Plan,1997,45.0
+jharkhand,CHC,Eigth Plan,1997,
+karnataka,CHC,Eigth Plan,1997,242.0
+kerala,CHC,Eigth Plan,1997,80.0
+madhya pradesh,CHC,Eigth Plan,1997,198.0
+maharashtra,CHC,Eigth Plan,1997,300.0
+manipur,CHC,Eigth Plan,1997,16.0
+meghalaya,CHC,Eigth Plan,1997,10.0
+mizoram,CHC,Eigth Plan,1997,6.0
+nagaland,CHC,Eigth Plan,1997,5.0
+odisha,CHC,Eigth Plan,1997,157.0
+punjab,CHC,Eigth Plan,1997,105.0
+rajasthan,CHC,Eigth Plan,1997,261.0
+sikkim,CHC,Eigth Plan,1997,2.0
+tamil nadu,CHC,Eigth Plan,1997,72.0
+telangana,CHC,Eigth Plan,1997,
+tripura,CHC,Eigth Plan,1997,11.0
+uttarakhand,CHC,Eigth Plan,1997,
+uttar pradesh,CHC,Eigth Plan,1997,262.0
+west bengal,CHC,Eigth Plan,1997,89.0
+a and n islands,CHC,Eigth Plan,1997,4.0
+chandigarh,CHC,Eigth Plan,1997,1.0
+dadra and nagar haveli,CHC,Eigth Plan,1997,0.0
+daman and diu,CHC,Eigth Plan,1997,1.0
+delhi,CHC,Eigth Plan,1997,0.0
+lakshadweep,CHC,Eigth Plan,1997,3.0
+puducherry,CHC,Eigth Plan,1997,4.0
+andhra pradesh,CHC,Ninth Plan,2002,219.0
+arunachal pradesh,CHC,Ninth Plan,2002,20.0
+assam,CHC,Ninth Plan,2002,100.0
+bihar,CHC,Ninth Plan,2002,148.0
+chhattisgarh,CHC,Ninth Plan,2002,
+goa,CHC,Ninth Plan,2002,5.0
+gujarat,CHC,Ninth Plan,2002,252.0
+haryana,CHC,Ninth Plan,2002,65.0
+himachal pradesh,CHC,Ninth Plan,2002,65.0
+jammu and kashmir,CHC,Ninth Plan,2002,53.0
+jharkhand,CHC,Ninth Plan,2002,
+karnataka,CHC,Ninth Plan,2002,249.0
+kerala,CHC,Ninth Plan,2002,105.0
+madhya pradesh,CHC,Ninth Plan,2002,342.0
+maharashtra,CHC,Ninth Plan,2002,351.0
+manipur,CHC,Ninth Plan,2002,16.0
+meghalaya,CHC,Ninth Plan,2002,13.0
+mizoram,CHC,Ninth Plan,2002,9.0
+nagaland,CHC,Ninth Plan,2002,9.0
+odisha,CHC,Ninth Plan,2002,157.0
+punjab,CHC,Ninth Plan,2002,105.0
+rajasthan,CHC,Ninth Plan,2002,263.0
+sikkim,CHC,Ninth Plan,2002,2.0
+tamil nadu,CHC,Ninth Plan,2002,72.0
+telangana,CHC,Ninth Plan,2002,
+tripura,CHC,Ninth Plan,2002,11.0
+uttarakhand,CHC,Ninth Plan,2002,
+uttar pradesh,CHC,Ninth Plan,2002,310.0
+west bengal,CHC,Ninth Plan,2002,99.0
+a and n islands,CHC,Ninth Plan,2002,4.0
+chandigarh,CHC,Ninth Plan,2002,1.0
+dadra and nagar haveli,CHC,Ninth Plan,2002,1.0
+daman and diu,CHC,Ninth Plan,2002,1.0
+delhi,CHC,Ninth Plan,2002,0.0
+lakshadweep,CHC,Ninth Plan,2002,3.0
+puducherry,CHC,Ninth Plan,2002,4.0
+andhra pradesh,CHC,Tenth Plan,2007,167.0
+arunachal pradesh,CHC,Tenth Plan,2007,31.0
+assam,CHC,Tenth Plan,2007,100.0
+bihar,CHC,Tenth Plan,2007,70.0
+chhattisgarh,CHC,Tenth Plan,2007,118.0
+goa,CHC,Tenth Plan,2007,5.0
+gujarat,CHC,Tenth Plan,2007,273.0
+haryana,CHC,Tenth Plan,2007,86.0
+himachal pradesh,CHC,Tenth Plan,2007,71.0
+jammu and kashmir,CHC,Tenth Plan,2007,80.0
+jharkhand,CHC,Tenth Plan,2007,194.0
+karnataka,CHC,Tenth Plan,2007,254.0
+kerala,CHC,Tenth Plan,2007,107.0
+madhya pradesh,CHC,Tenth Plan,2007,270.0
+maharashtra,CHC,Tenth Plan,2007,407.0
+manipur,CHC,Tenth Plan,2007,16.0
+meghalaya,CHC,Tenth Plan,2007,26.0
+mizoram,CHC,Tenth Plan,2007,9.0
+nagaland,CHC,Tenth Plan,2007,21.0
+odisha,CHC,Tenth Plan,2007,231.0
+punjab,CHC,Tenth Plan,2007,126.0
+rajasthan,CHC,Tenth Plan,2007,337.0
+sikkim,CHC,Tenth Plan,2007,4.0
+tamil nadu,CHC,Tenth Plan,2007,236.0
+telangana,CHC,Tenth Plan,2007,
+tripura,CHC,Tenth Plan,2007,10.0
+uttarakhand,CHC,Tenth Plan,2007,49.0
+uttar pradesh,CHC,Tenth Plan,2007,386.0
+west bengal,CHC,Tenth Plan,2007,346.0
+a and n islands,CHC,Tenth Plan,2007,4.0
+chandigarh,CHC,Tenth Plan,2007,2.0
+dadra and nagar haveli,CHC,Tenth Plan,2007,1.0
+daman and diu,CHC,Tenth Plan,2007,1.0
+delhi,CHC,Tenth Plan,2007,0.0
+lakshadweep,CHC,Tenth Plan,2007,3.0
+puducherry,CHC,Tenth Plan,2007,4.0
+andhra pradesh,CHC,Eleventh Plan,2012,281.0
+arunachal pradesh,CHC,Eleventh Plan,2012,48.0
+assam,CHC,Eleventh Plan,2012,109.0
+bihar,CHC,Eleventh Plan,2012,70.0
+chhattisgarh,CHC,Eleventh Plan,2012,149.0
+goa,CHC,Eleventh Plan,2012,5.0
+gujarat,CHC,Eleventh Plan,2012,318.0
+haryana,CHC,Eleventh Plan,2012,109.0
+himachal pradesh,CHC,Eleventh Plan,2012,76.0
+jammu and kashmir,CHC,Eleventh Plan,2012,84.0
+jharkhand,CHC,Eleventh Plan,2012,188.0
+karnataka,CHC,Eleventh Plan,2012,180.0
+kerala,CHC,Eleventh Plan,2012,217.0
+madhya pradesh,CHC,Eleventh Plan,2012,333.0
+maharashtra,CHC,Eleventh Plan,2012,363.0
+manipur,CHC,Eleventh Plan,2012,16.0
+meghalaya,CHC,Eleventh Plan,2012,29.0
+mizoram,CHC,Eleventh Plan,2012,9.0
+nagaland,CHC,Eleventh Plan,2012,21.0
+odisha,CHC,Eleventh Plan,2012,377.0
+punjab,CHC,Eleventh Plan,2012,132.0
+rajasthan,CHC,Eleventh Plan,2012,382.0
+sikkim,CHC,Eleventh Plan,2012,2.0
+tamil nadu,CHC,Eleventh Plan,2012,385.0
+telangana,CHC,Eleventh Plan,2012,
+tripura,CHC,Eleventh Plan,2012,12.0
+uttarakhand,CHC,Eleventh Plan,2012,59.0
+uttar pradesh,CHC,Eleventh Plan,2012,515.0
+west bengal,CHC,Eleventh Plan,2012,348.0
+a and n islands,CHC,Eleventh Plan,2012,4.0
+chandigarh,CHC,Eleventh Plan,2012,2.0
+dadra and nagar haveli,CHC,Eleventh Plan,2012,1.0
+daman and diu,CHC,Eleventh Plan,2012,2.0
+delhi,CHC,Eleventh Plan,2012,0.0
+lakshadweep,CHC,Eleventh Plan,2012,3.0
+puducherry,CHC,Eleventh Plan,2012,4.0
+andhra pradesh,CHC,Twelth Plan,2017,193.0
+arunachal pradesh,CHC,Twelth Plan,2017,63.0
+assam,CHC,Twelth Plan,2017,158.0
+bihar,CHC,Twelth Plan,2017,150.0
+chhattisgarh,CHC,Twelth Plan,2017,169.0
+goa,CHC,Twelth Plan,2017,4.0
+gujarat,CHC,Twelth Plan,2017,363.0
+haryana,CHC,Twelth Plan,2017,112.0
+himachal pradesh,CHC,Twelth Plan,2017,89.0
+jammu and kashmir,CHC,Twelth Plan,2017,84.0
+jharkhand,CHC,Twelth Plan,2017,188.0
+karnataka,CHC,Twelth Plan,2017,206.0
+kerala,CHC,Twelth Plan,2017,232.0
+madhya pradesh,CHC,Twelth Plan,2017,309.0
+maharashtra,CHC,Twelth Plan,2017,360.0
+manipur,CHC,Twelth Plan,2017,17.0
+meghalaya,CHC,Twelth Plan,2017,27.0
+mizoram,CHC,Twelth Plan,2017,9.0
+nagaland,CHC,Twelth Plan,2017,21.0
+odisha,CHC,Twelth Plan,2017,370.0
+punjab,CHC,Twelth Plan,2017,151.0
+rajasthan,CHC,Twelth Plan,2017,579.0
+sikkim,CHC,Twelth Plan,2017,2.0
+tamil nadu,CHC,Twelth Plan,2017,385.0
+telangana,CHC,Twelth Plan,2017,114.0
+tripura,CHC,Twelth Plan,2017,21.0
+uttarakhand,CHC,Twelth Plan,2017,60.0
+uttar pradesh,CHC,Twelth Plan,2017,822.0
+west bengal,CHC,Twelth Plan,2017,349.0
+a and n islands,CHC,Twelth Plan,2017,4.0
+chandigarh,CHC,Twelth Plan,2017,2.0
+dadra and nagar haveli,CHC,Twelth Plan,2017,2.0
+daman and diu,CHC,Twelth Plan,2017,2.0
+delhi,CHC,Twelth Plan,2017,0.0
+lakshadweep,CHC,Twelth Plan,2017,3.0
+puducherry,CHC,Twelth Plan,2017,4.0

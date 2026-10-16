@@ -1,0 +1,361 @@
+state_key,cadre,facility_level,required,sanctioned,in_position,file_shortfall,shortfall_net,shortfall_floor0,surplus
+andhra pradesh,Allopathic doctor,PHC,1147,1952.0,1644.0,,-497.0,0.0,497.0
+arunachal pradesh,Allopathic doctor,PHC,143,,122.0,21.0,21.0,21.0,0.0
+assam,Allopathic doctor,PHC,1014,,1048.0,,-34.0,0.0,34.0
+bihar,Allopathic doctor,PHC,1899,2078.0,1786.0,113.0,113.0,113.0,0.0
+chhattisgarh,Allopathic doctor,PHC,785,798.0,341.0,444.0,444.0,444.0,0.0
+goa,Allopathic doctor,PHC,24,48.0,56.0,,-32.0,0.0,32.0
+gujarat,Allopathic doctor,PHC,1392,1769.0,1229.0,163.0,163.0,163.0,0.0
+haryana,Allopathic doctor,PHC,366,687.0,429.0,,-63.0,0.0,63.0
+himachal pradesh,Allopathic doctor,PHC,538,636.0,492.0,46.0,46.0,46.0,0.0
+jammu and kashmir,Allopathic doctor,PHC,637,1347.0,704.0,,-67.0,0.0,67.0
+jharkhand,Allopathic doctor,PHC,297,569.0,331.0,,-34.0,0.0,34.0
+karnataka,Allopathic doctor,PHC,2359,2359.0,2136.0,223.0,223.0,223.0,0.0
+kerala,Allopathic doctor,PHC,849,1120.0,1169.0,,-320.0,0.0,320.0
+madhya pradesh,Allopathic doctor,PHC,1171,1771.0,954.0,217.0,217.0,217.0,0.0
+maharashtra,Allopathic doctor,PHC,1814,3009.0,2929.0,,-1115.0,0.0,1115.0
+manipur,Allopathic doctor,PHC,85,238.0,194.0,,-109.0,0.0,109.0
+meghalaya,Allopathic doctor,PHC,109,128.0,112.0,,-3.0,0.0,3.0
+mizoram,Allopathic doctor,PHC,57,152.0,56.0,1.0,1.0,1.0,0.0
+nagaland,Allopathic doctor,PHC,126,108.0,122.0,4.0,4.0,4.0,0.0
+odisha,Allopathic doctor,PHC,1280,1285.0,940.0,340.0,340.0,340.0,0.0
+punjab,Allopathic doctor,PHC,432,593.0,568.0,,-136.0,0.0,136.0
+rajasthan,Allopathic doctor,PHC,2079,2664.0,2382.0,,-303.0,0.0,303.0
+sikkim,Allopathic doctor,PHC,24,,30.0,,-6.0,0.0,6.0
+tamil nadu,Allopathic doctor,PHC,1362,2927.0,2759.0,,-1397.0,0.0,1397.0
+telangana,Allopathic doctor,PHC,689,1318.0,966.0,,-277.0,0.0,277.0
+tripura,Allopathic doctor,PHC,93,0.0,156.0,,-63.0,0.0,63.0
+uttarakhand,Allopathic doctor,PHC,257,386.0,215.0,42.0,42.0,42.0,0.0
+uttar pradesh,Allopathic doctor,PHC,3621,4509.0,2209.0,1412.0,1412.0,1412.0,0.0
+west bengal,Allopathic doctor,PHC,914,1390.0,918.0,,-4.0,0.0,4.0
+a and n islands,Allopathic doctor,PHC,22,42.0,34.0,,-12.0,0.0,12.0
+chandigarh,Allopathic doctor,PHC,3,0.0,3.0,0.0,0.0,0.0,-0.0
+dadra and nagar haveli,Allopathic doctor,PHC,9,15.0,8.0,1.0,1.0,1.0,0.0
+daman and diu,Allopathic doctor,PHC,4,3.0,7.0,,-3.0,0.0,3.0
+delhi,Allopathic doctor,PHC,5,21.0,21.0,,-16.0,0.0,16.0
+lakshadweep,Allopathic doctor,PHC,4,8.0,8.0,,-4.0,0.0,4.0
+puducherry,Allopathic doctor,PHC,40,38.0,46.0,,-6.0,0.0,6.0
+andhra pradesh,Health assistant (female),PHC,1147,1264.0,1143.0,4.0,4.0,4.0,0.0
+arunachal pradesh,Health assistant (female),PHC,143,,6.0,137.0,137.0,137.0,0.0
+assam,Health assistant (female),PHC,1014,379.0,308.0,706.0,706.0,706.0,0.0
+bihar,Health assistant (female),PHC,1899,850.0,95.0,1804.0,1804.0,1804.0,0.0
+chhattisgarh,Health assistant (female),PHC,785,800.0,640.0,145.0,145.0,145.0,0.0
+goa,Health assistant (female),PHC,24,16.0,9.0,15.0,15.0,15.0,0.0
+gujarat,Health assistant (female),PHC,1392,1771.0,1218.0,174.0,174.0,174.0,0.0
+haryana,Health assistant (female),PHC,366,337.0,273.0,93.0,93.0,93.0,0.0
+himachal pradesh,Health assistant (female),PHC,538,146.0,0.0,538.0,538.0,538.0,0.0
+jammu and kashmir,Health assistant (female),PHC,637,154.0,99.0,538.0,538.0,538.0,0.0
+jharkhand,Health assistant (female),PHC,297,327.0,16.0,281.0,281.0,281.0,0.0
+karnataka,Health assistant (female),PHC,2359,1449.0,1089.0,1270.0,1270.0,1270.0,0.0
+kerala,Health assistant (female),PHC,849,13.0,13.0,836.0,836.0,836.0,0.0
+madhya pradesh,Health assistant (female),PHC,1171,1171.0,963.0,208.0,208.0,208.0,0.0
+maharashtra,Health assistant (female),PHC,1814,2392.0,1801.0,13.0,13.0,13.0,0.0
+manipur,Health assistant (female),PHC,85,75.0,59.0,26.0,26.0,26.0,0.0
+meghalaya,Health assistant (female),PHC,109,67.0,72.0,37.0,37.0,37.0,0.0
+mizoram,Health assistant (female),PHC,57,85.0,19.0,38.0,38.0,38.0,0.0
+nagaland,Health assistant (female),PHC,126,13.0,24.0,102.0,102.0,102.0,0.0
+odisha,Health assistant (female),PHC,1280,1162.0,559.0,721.0,721.0,721.0,0.0
+punjab,Health assistant (female),PHC,432,489.0,502.0,,-70.0,0.0,70.0
+rajasthan,Health assistant (female),PHC,2079,2070.0,1106.0,973.0,973.0,973.0,0.0
+sikkim,Health assistant (female),PHC,24,24.0,12.0,12.0,12.0,12.0,0.0
+tamil nadu,Health assistant (female),PHC,1362,1362.0,991.0,371.0,371.0,371.0,0.0
+telangana,Health assistant (female),PHC,689,1111.0,944.0,,-255.0,0.0,255.0
+tripura,Health assistant (female),PHC,93,0.0,33.0,60.0,60.0,60.0,0.0
+uttarakhand,Health assistant (female),PHC,257,192.0,155.0,102.0,102.0,102.0,0.0
+uttar pradesh,Health assistant (female),PHC,3621,3781.0,1916.0,1705.0,1705.0,1705.0,0.0
+west bengal,Health assistant (female),PHC,914,200.0,157.0,757.0,757.0,757.0,0.0
+a and n islands,Health assistant (female),PHC,22,20.0,20.0,2.0,2.0,2.0,0.0
+chandigarh,Health assistant (female),PHC,3,0.0,3.0,0.0,0.0,0.0,-0.0
+dadra and nagar haveli,Health assistant (female),PHC,9,0.0,0.0,9.0,9.0,9.0,0.0
+daman and diu,Health assistant (female),PHC,4,0.0,0.0,4.0,4.0,4.0,0.0
+delhi,Health assistant (female),PHC,5,14.0,9.0,,-4.0,0.0,4.0
+lakshadweep,Health assistant (female),PHC,4,1.0,1.0,3.0,3.0,3.0,0.0
+puducherry,Health assistant (female),PHC,40,13.0,12.0,28.0,28.0,28.0,0.0
+andhra pradesh,Health assistant (male),PHC,1147,0.0,0.0,1147.0,1147.0,1147.0,0.0
+arunachal pradesh,Health assistant (male),PHC,143,,81.0,62.0,62.0,62.0,0.0
+assam,Health assistant (male),PHC,1014,,106.0,908.0,908.0,908.0,0.0
+bihar,Health assistant (male),PHC,1899,649.0,212.0,1687.0,1687.0,1687.0,0.0
+chhattisgarh,Health assistant (male),PHC,785,588.0,425.0,360.0,360.0,360.0,0.0
+goa,Health assistant (male),PHC,24,0.0,0.0,24.0,24.0,24.0,0.0
+gujarat,Health assistant (male),PHC,1392,1473.0,933.0,459.0,459.0,459.0,0.0
+haryana,Health assistant (male),PHC,366,206.0,153.0,213.0,213.0,213.0,0.0
+himachal pradesh,Health assistant (male),PHC,538,108.0,46.0,492.0,492.0,492.0,0.0
+jammu and kashmir,Health assistant (male),PHC,637,50.0,26.0,611.0,611.0,611.0,0.0
+jharkhand,Health assistant (male),PHC,297,327.0,33.0,264.0,264.0,264.0,0.0
+karnataka,Health assistant (male),PHC,2359,5861.0,3252.0,,-893.0,0.0,893.0
+kerala,Health assistant (male),PHC,849,2186.0,2186.0,,-1337.0,0.0,1337.0
+madhya pradesh,Health assistant (male),PHC,1171,1171.0,543.0,628.0,628.0,628.0,0.0
+maharashtra,Health assistant (male),PHC,1814,1722.0,1620.0,194.0,194.0,194.0,0.0
+manipur,Health assistant (male),PHC,85,74.0,65.0,20.0,20.0,20.0,0.0
+meghalaya,Health assistant (male),PHC,109,81.0,83.0,26.0,26.0,26.0,0.0
+mizoram,Health assistant (male),PHC,57,86.0,22.0,35.0,35.0,35.0,0.0
+nagaland,Health assistant (male),PHC,126,0.0,53.0,73.0,73.0,73.0,0.0
+odisha,Health assistant (male),PHC,1280,0.0,0.0,1280.0,1280.0,1280.0,0.0
+punjab,Health assistant (male),PHC,432,407.0,268.0,164.0,164.0,164.0,0.0
+rajasthan,Health assistant (male),PHC,2079,119.0,34.0,2045.0,2045.0,2045.0,0.0
+sikkim,Health assistant (male),PHC,24,,1.0,23.0,23.0,23.0,0.0
+tamil nadu,Health assistant (male),PHC,1362,1489.0,1036.0,326.0,326.0,326.0,0.0
+telangana,Health assistant (male),PHC,689,0.0,0.0,689.0,689.0,689.0,0.0
+tripura,Health assistant (male),PHC,93,0.0,23.0,70.0,70.0,70.0,0.0
+uttarakhand,Health assistant (male),PHC,257,66.0,13.0,244.0,244.0,244.0,0.0
+uttar pradesh,Health assistant (male),PHC,3621,5757.0,954.0,2667.0,2667.0,2667.0,0.0
+west bengal,Health assistant (male),PHC,914,286.0,73.0,841.0,841.0,841.0,0.0
+a and n islands,Health assistant (male),PHC,22,11.0,11.0,11.0,11.0,11.0,0.0
+chandigarh,Health assistant (male),PHC,3,,0.0,3.0,3.0,3.0,0.0
+dadra and nagar haveli,Health assistant (male),PHC,9,0.0,0.0,9.0,9.0,9.0,0.0
+daman and diu,Health assistant (male),PHC,4,2.0,2.0,2.0,2.0,2.0,0.0
+delhi,Health assistant (male),PHC,5,0.0,0.0,5.0,5.0,5.0,0.0
+lakshadweep,Health assistant (male),PHC,4,0.0,0.0,4.0,4.0,4.0,0.0
+puducherry,Health assistant (male),PHC,40,34.0,34.0,6.0,6.0,6.0,0.0
+andhra pradesh,Physician,CHC,193,65.0,56.0,137.0,137.0,137.0,0.0
+arunachal pradesh,Physician,CHC,63,,1.0,62.0,62.0,62.0,0.0
+assam,Physician,CHC,158,,31.0,127.0,127.0,127.0,0.0
+bihar,Physician,CHC,150,,8.0,142.0,142.0,142.0,0.0
+chhattisgarh,Physician,CHC,169,155.0,9.0,160.0,160.0,160.0,0.0
+goa,Physician,CHC,4,1.0,1.0,3.0,3.0,3.0,0.0
+gujarat,Physician,CHC,363,62.0,9.0,354.0,354.0,354.0,0.0
+haryana,Physician,CHC,112,12.0,4.0,108.0,108.0,108.0,0.0
+himachal pradesh,Physician,CHC,89,,5.0,84.0,84.0,84.0,0.0
+jammu and kashmir,Physician,CHC,84,107.0,45.0,39.0,39.0,39.0,0.0
+jharkhand,Physician,CHC,188,190.0,8.0,180.0,180.0,180.0,0.0
+karnataka,Physician,CHC,206,206.0,106.0,100.0,100.0,100.0,0.0
+kerala,Physician,CHC,232,2.0,2.0,230.0,230.0,230.0,0.0
+madhya pradesh,Physician,CHC,309,309.0,41.0,268.0,268.0,268.0,0.0
+maharashtra,Physician,CHC,360,153.0,45.0,315.0,315.0,315.0,0.0
+manipur,Physician,CHC,17,1.0,1.0,16.0,16.0,16.0,0.0
+meghalaya,Physician,CHC,27,0.0,12.0,15.0,15.0,15.0,0.0
+mizoram,Physician,CHC,9,5.0,0.0,9.0,9.0,9.0,0.0
+nagaland,Physician,CHC,21,,0.0,21.0,21.0,21.0,0.0
+odisha,Physician,CHC,370,128.0,58.0,312.0,312.0,312.0,0.0
+punjab,Physician,CHC,151,140.0,48.0,103.0,103.0,103.0,0.0
+rajasthan,Physician,CHC,579,665.0,189.0,390.0,390.0,390.0,0.0
+sikkim,Physician,CHC,2,,1.0,1.0,1.0,1.0,0.0
+tamil nadu,Physician,CHC,385,,11.0,374.0,374.0,374.0,0.0
+telangana,Physician,CHC,114,71.0,21.0,93.0,93.0,93.0,0.0
+tripura,Physician,CHC,21,0.0,0.0,21.0,21.0,21.0,0.0
+uttarakhand,Physician,CHC,60,49.0,11.0,49.0,49.0,49.0,0.0
+uttar pradesh,Physician,CHC,822,523.0,103.0,719.0,719.0,719.0,0.0
+west bengal,Physician,CHC,349,95.0,36.0,313.0,313.0,313.0,0.0
+a and n islands,Physician,CHC,4,3.0,0.0,4.0,4.0,4.0,0.0
+chandigarh,Physician,CHC,2,2.0,1.0,1.0,1.0,1.0,0.0
+dadra and nagar haveli,Physician,CHC,2,0.0,0.0,2.0,2.0,2.0,0.0
+daman and diu,Physician,CHC,2,0.0,0.0,2.0,2.0,2.0,0.0
+delhi,Physician,CHC,0,0.0,0.0,0.0,0.0,0.0,-0.0
+lakshadweep,Physician,CHC,3,0.0,0.0,3.0,3.0,3.0,0.0
+puducherry,Physician,CHC,4,1.0,1.0,3.0,3.0,3.0,0.0
+andhra pradesh,Surgeon,CHC,193,31.0,38.0,155.0,155.0,155.0,0.0
+arunachal pradesh,Surgeon,CHC,63,,0.0,63.0,63.0,63.0,0.0
+assam,Surgeon,CHC,158,,12.0,146.0,146.0,146.0,0.0
+bihar,Surgeon,CHC,150,,13.0,137.0,137.0,137.0,0.0
+chhattisgarh,Surgeon,CHC,169,155.0,15.0,154.0,154.0,154.0,0.0
+goa,Surgeon,CHC,4,2.0,1.0,3.0,3.0,3.0,0.0
+gujarat,Surgeon,CHC,363,425.0,27.0,336.0,336.0,336.0,0.0
+haryana,Surgeon,CHC,112,20.0,2.0,110.0,110.0,110.0,0.0
+himachal pradesh,Surgeon,CHC,89,,4.0,85.0,85.0,85.0,0.0
+jammu and kashmir,Surgeon,CHC,84,89.0,43.0,41.0,41.0,41.0,0.0
+jharkhand,Surgeon,CHC,188,0.0,25.0,163.0,163.0,163.0,0.0
+karnataka,Surgeon,CHC,206,206.0,128.0,78.0,78.0,78.0,0.0
+kerala,Surgeon,CHC,232,,1.0,231.0,231.0,231.0,0.0
+madhya pradesh,Surgeon,CHC,309,309.0,42.0,267.0,267.0,267.0,0.0
+maharashtra,Surgeon,CHC,360,202.0,26.0,334.0,334.0,334.0,0.0
+manipur,Surgeon,CHC,17,0.0,0.0,17.0,17.0,17.0,0.0
+meghalaya,Surgeon,CHC,27,0.0,0.0,27.0,27.0,27.0,0.0
+mizoram,Surgeon,CHC,9,7.0,0.0,9.0,9.0,9.0,0.0
+nagaland,Surgeon,CHC,21,,2.0,19.0,19.0,19.0,0.0
+odisha,Surgeon,CHC,370,128.0,68.0,302.0,302.0,302.0,0.0
+punjab,Surgeon,CHC,151,148.0,50.0,101.0,101.0,101.0,0.0
+rajasthan,Surgeon,CHC,579,453.0,127.0,452.0,452.0,452.0,0.0
+sikkim,Surgeon,CHC,2,,0.0,2.0,2.0,2.0,0.0
+tamil nadu,Surgeon,CHC,385,0.0,2.0,383.0,383.0,383.0,0.0
+telangana,Surgeon,CHC,114,71.0,14.0,100.0,100.0,100.0,0.0
+tripura,Surgeon,CHC,21,0.0,0.0,21.0,21.0,21.0,0.0
+uttarakhand,Surgeon,CHC,60,50.0,6.0,54.0,54.0,54.0,0.0
+uttar pradesh,Surgeon,CHC,822,529.0,112.0,710.0,710.0,710.0,0.0
+west bengal,Surgeon,CHC,349,0.0,0.0,349.0,349.0,349.0,0.0
+a and n islands,Surgeon,CHC,4,3.0,0.0,4.0,4.0,4.0,0.0
+chandigarh,Surgeon,CHC,2,2.0,0.0,2.0,2.0,2.0,0.0
+dadra and nagar haveli,Surgeon,CHC,2,0.0,0.0,2.0,2.0,2.0,0.0
+daman and diu,Surgeon,CHC,2,0.0,0.0,2.0,2.0,2.0,0.0
+delhi,Surgeon,CHC,0,0.0,0.0,0.0,0.0,0.0,-0.0
+lakshadweep,Surgeon,CHC,3,0.0,0.0,3.0,3.0,3.0,0.0
+puducherry,Surgeon,CHC,4,0.0,0.0,4.0,4.0,4.0,0.0
+andhra pradesh,Radiographer,CHC,193,160.0,75.0,118.0,118.0,118.0,0.0
+arunachal pradesh,Radiographer,CHC,63,,7.0,56.0,56.0,56.0,0.0
+assam,Radiographer,CHC,158,145.0,60.0,98.0,98.0,98.0,0.0
+bihar,Radiographer,CHC,150,89.0,1.0,149.0,149.0,149.0,0.0
+chhattisgarh,Radiographer,CHC,169,162.0,130.0,39.0,39.0,39.0,0.0
+goa,Radiographer,CHC,4,6.0,6.0,,-2.0,0.0,2.0
+gujarat,Radiographer,CHC,363,363.0,162.0,201.0,201.0,201.0,0.0
+haryana,Radiographer,CHC,112,73.0,40.0,72.0,72.0,72.0,0.0
+himachal pradesh,Radiographer,CHC,89,65.0,33.0,56.0,56.0,56.0,0.0
+jammu and kashmir,Radiographer,CHC,84,305.0,210.0,,-126.0,0.0,126.0
+jharkhand,Radiographer,CHC,188,188.0,57.0,131.0,131.0,131.0,0.0
+karnataka,Radiographer,CHC,206,206.0,167.0,39.0,39.0,39.0,0.0
+kerala,Radiographer,CHC,232,16.0,18.0,214.0,214.0,214.0,0.0
+madhya pradesh,Radiographer,CHC,309,312.0,176.0,133.0,133.0,133.0,0.0
+maharashtra,Radiographer,CHC,360,140.0,107.0,253.0,253.0,253.0,0.0
+manipur,Radiographer,CHC,17,13.0,13.0,4.0,4.0,4.0,0.0
+meghalaya,Radiographer,CHC,27,19.0,21.0,6.0,6.0,6.0,0.0
+mizoram,Radiographer,CHC,9,5.0,6.0,3.0,3.0,3.0,0.0
+nagaland,Radiographer,CHC,21,1.0,1.0,20.0,20.0,20.0,0.0
+odisha,Radiographer,CHC,370,57.0,68.0,302.0,302.0,302.0,0.0
+punjab,Radiographer,CHC,151,171.0,129.0,22.0,22.0,22.0,0.0
+rajasthan,Radiographer,CHC,579,714.0,205.0,374.0,374.0,374.0,0.0
+sikkim,Radiographer,CHC,2,,1.0,1.0,1.0,1.0,0.0
+tamil nadu,Radiographer,CHC,385,294.0,119.0,266.0,266.0,266.0,0.0
+telangana,Radiographer,CHC,114,98.0,58.0,56.0,56.0,56.0,0.0
+tripura,Radiographer,CHC,21,0.0,11.0,10.0,10.0,10.0,0.0
+uttarakhand,Radiographer,CHC,60,32.0,15.0,45.0,45.0,45.0,0.0
+uttar pradesh,Radiographer,CHC,822,230.0,82.0,740.0,740.0,740.0,0.0
+west bengal,Radiographer,CHC,349,275.0,135.0,214.0,214.0,214.0,0.0
+a and n islands,Radiographer,CHC,4,0.0,0.0,4.0,4.0,4.0,0.0
+chandigarh,Radiographer,CHC,2,5.0,5.0,,-3.0,0.0,3.0
+dadra and nagar haveli,Radiographer,CHC,2,0.0,0.0,2.0,2.0,2.0,0.0
+daman and diu,Radiographer,CHC,2,3.0,3.0,,-1.0,0.0,1.0
+delhi,Radiographer,CHC,0,0.0,0.0,0.0,0.0,0.0,-0.0
+lakshadweep,Radiographer,CHC,3,5.0,5.0,,-2.0,0.0,2.0
+puducherry,Radiographer,CHC,4,3.0,3.0,1.0,1.0,1.0,0.0
+andhra pradesh,Nursing staff,PHC + CHC,2498,4307.0,3541.0,,-1043.0,0.0,1043.0
+arunachal pradesh,Nursing staff,PHC + CHC,584,,498.0,86.0,86.0,86.0,0.0
+assam,Nursing staff,PHC + CHC,2120,2798.0,2793.0,,-673.0,0.0,673.0
+bihar,Nursing staff,PHC + CHC,2949,1662.0,1142.0,1807.0,1807.0,1807.0,0.0
+chhattisgarh,Nursing staff,PHC + CHC,1968,2685.0,1918.0,50.0,50.0,50.0,0.0
+goa,Nursing staff,PHC + CHC,52,132.0,129.0,,-77.0,0.0,77.0
+gujarat,Nursing staff,PHC + CHC,3933,3994.0,3529.0,404.0,404.0,404.0,0.0
+haryana,Nursing staff,PHC + CHC,1150,1929.0,1675.0,,-525.0,0.0,525.0
+himachal pradesh,Nursing staff,PHC + CHC,1161,837.0,542.0,619.0,619.0,619.0,0.0
+jammu and kashmir,Nursing staff,PHC + CHC,1225,1710.0,1480.0,,-255.0,0.0,255.0
+jharkhand,Nursing staff,PHC + CHC,1613,703.0,1136.0,477.0,477.0,477.0,0.0
+karnataka,Nursing staff,PHC + CHC,3801,2667.0,3339.0,462.0,462.0,462.0,0.0
+kerala,Nursing staff,PHC + CHC,2473,3610.0,3969.0,,-1496.0,0.0,1496.0
+madhya pradesh,Nursing staff,PHC + CHC,3334,4624.0,3211.0,123.0,123.0,123.0,0.0
+maharashtra,Nursing staff,PHC + CHC,4334,3218.0,2519.0,1815.0,1815.0,1815.0,0.0
+manipur,Nursing staff,PHC + CHC,204,484.0,397.0,,-193.0,0.0,193.0
+meghalaya,Nursing staff,PHC + CHC,298,413.0,610.0,,-312.0,0.0,312.0
+mizoram,Nursing staff,PHC + CHC,120,570.0,212.0,,-92.0,0.0,92.0
+nagaland,Nursing staff,PHC + CHC,273,175.0,387.0,,-114.0,0.0,114.0
+odisha,Nursing staff,PHC + CHC,3870,866.0,1817.0,2053.0,2053.0,2053.0,0.0
+punjab,Nursing staff,PHC + CHC,1489,2189.0,2019.0,,-530.0,0.0,530.0
+rajasthan,Nursing staff,PHC + CHC,6132,12472.0,9311.0,,-3179.0,0.0,3179.0
+sikkim,Nursing staff,PHC + CHC,38,,33.0,5.0,5.0,5.0,0.0
+tamil nadu,Nursing staff,PHC + CHC,4057,8133.0,7487.0,,-3430.0,0.0,3430.0
+telangana,Nursing staff,PHC + CHC,1487,2130.0,1904.0,,-417.0,0.0,417.0
+tripura,Nursing staff,PHC + CHC,240,0.0,597.0,,-357.0,0.0,357.0
+uttarakhand,Nursing staff,PHC + CHC,677,307.0,349.0,328.0,328.0,328.0,0.0
+uttar pradesh,Nursing staff,PHC + CHC,9375,4497.0,4412.0,4963.0,4963.0,4963.0,0.0
+west bengal,Nursing staff,PHC + CHC,3357,10380.0,9248.0,,-5891.0,0.0,5891.0
+a and n islands,Nursing staff,PHC + CHC,50,199.0,193.0,,-143.0,0.0,143.0
+chandigarh,Nursing staff,PHC + CHC,17,47.0,80.0,,-63.0,0.0,63.0
+dadra and nagar haveli,Nursing staff,PHC + CHC,23,14.0,45.0,,-22.0,0.0,22.0
+daman and diu,Nursing staff,PHC + CHC,18,14.0,16.0,2.0,2.0,2.0,0.0
+delhi,Nursing staff,PHC + CHC,5,5.0,7.0,,-2.0,0.0,2.0
+lakshadweep,Nursing staff,PHC + CHC,25,54.0,54.0,,-29.0,0.0,29.0
+puducherry,Nursing staff,PHC + CHC,68,131.0,139.0,,-71.0,0.0,71.0
+andhra pradesh,Pharmacist,PHC + CHC,1340,1355.0,994.0,346.0,346.0,346.0,0.0
+arunachal pradesh,Pharmacist,PHC + CHC,206,,89.0,117.0,117.0,117.0,0.0
+assam,Pharmacist,PHC + CHC,1172,1284.0,1384.0,,-212.0,0.0,212.0
+bihar,Pharmacist,PHC + CHC,2049,989.0,287.0,1762.0,1762.0,1762.0,0.0
+chhattisgarh,Pharmacist,PHC + CHC,954,1086.0,887.0,67.0,67.0,67.0,0.0
+goa,Pharmacist,PHC + CHC,28,53.0,51.0,,-23.0,0.0,23.0
+gujarat,Pharmacist,PHC + CHC,1755,1792.0,1665.0,90.0,90.0,90.0,0.0
+haryana,Pharmacist,PHC + CHC,478,563.0,419.0,59.0,59.0,59.0,0.0
+himachal pradesh,Pharmacist,PHC + CHC,627,594.0,394.0,233.0,233.0,233.0,0.0
+jammu and kashmir,Pharmacist,PHC + CHC,721,1137.0,737.0,,-16.0,0.0,16.0
+jharkhand,Pharmacist,PHC + CHC,485,515.0,238.0,247.0,247.0,247.0,0.0
+karnataka,Pharmacist,PHC + CHC,2565,2674.0,2523.0,42.0,42.0,42.0,0.0
+kerala,Pharmacist,PHC + CHC,1081,1036.0,1102.0,,-21.0,0.0,21.0
+madhya pradesh,Pharmacist,PHC + CHC,1480,1905.0,1687.0,,-207.0,0.0,207.0
+maharashtra,Pharmacist,PHC + CHC,2174,2355.0,2082.0,92.0,92.0,92.0,0.0
+manipur,Pharmacist,PHC + CHC,102,145.0,152.0,,-50.0,0.0,50.0
+meghalaya,Pharmacist,PHC + CHC,136,135.0,166.0,,-30.0,0.0,30.0
+mizoram,Pharmacist,PHC + CHC,66,99.0,59.0,7.0,7.0,7.0,0.0
+nagaland,Pharmacist,PHC + CHC,147,135.0,101.0,46.0,46.0,46.0,0.0
+odisha,Pharmacist,PHC + CHC,1650,1781.0,1691.0,,-41.0,0.0,41.0
+punjab,Pharmacist,PHC + CHC,583,841.0,779.0,,-196.0,0.0,196.0
+rajasthan,Pharmacist,PHC + CHC,2658,1240.0,623.0,2035.0,2035.0,2035.0,0.0
+sikkim,Pharmacist,PHC + CHC,26,,10.0,16.0,16.0,16.0,0.0
+tamil nadu,Pharmacist,PHC + CHC,1747,1789.0,1391.0,356.0,356.0,356.0,0.0
+telangana,Pharmacist,PHC + CHC,803,928.0,814.0,,-11.0,0.0,11.0
+tripura,Pharmacist,PHC + CHC,114,0.0,148.0,,-34.0,0.0,34.0
+uttarakhand,Pharmacist,PHC + CHC,317,325.0,307.0,10.0,10.0,10.0,0.0
+uttar pradesh,Pharmacist,PHC + CHC,4443,2952.0,2883.0,1560.0,1560.0,1560.0,0.0
+west bengal,Pharmacist,PHC + CHC,1263,1458.0,1381.0,,-118.0,0.0,118.0
+a and n islands,Pharmacist,PHC + CHC,26,53.0,49.0,,-23.0,0.0,23.0
+chandigarh,Pharmacist,PHC + CHC,5,16.0,21.0,,-16.0,0.0,16.0
+dadra and nagar haveli,Pharmacist,PHC + CHC,11,10.0,12.0,,-1.0,0.0,1.0
+daman and diu,Pharmacist,PHC + CHC,6,5.0,7.0,,-1.0,0.0,1.0
+delhi,Pharmacist,PHC + CHC,5,7.0,7.0,,-2.0,0.0,2.0
+lakshadweep,Pharmacist,PHC + CHC,7,16.0,16.0,,-9.0,0.0,9.0
+puducherry,Pharmacist,PHC + CHC,44,42.0,37.0,7.0,7.0,7.0,0.0
+andhra pradesh,Health worker (female),Sub Centre,7458,14317.0,12073.0,,-4615.0,0.0,4615.0
+arunachal pradesh,Health worker (female),Sub Centre,312,,323.0,,-11.0,0.0,11.0
+assam,Health worker (female),Sub Centre,4621,,7545.0,,-2924.0,0.0,2924.0
+bihar,Health worker (female),Sub Centre,9949,,20151.0,,-10202.0,0.0,10202.0
+chhattisgarh,Health worker (female),Sub Centre,5186,5186.0,5913.0,,-727.0,0.0,727.0
+goa,Health worker (female),Sub Centre,214,244.0,186.0,28.0,28.0,28.0,0.0
+gujarat,Health worker (female),Sub Centre,9082,9156.0,8859.0,223.0,223.0,223.0,0.0
+haryana,Health worker (female),Sub Centre,2589,5038.0,4360.0,,-1771.0,0.0,1771.0
+himachal pradesh,Health worker (female),Sub Centre,2083,2246.0,1686.0,397.0,397.0,397.0,0.0
+jammu and kashmir,Health worker (female),Sub Centre,2967,4337.0,4225.0,,-1258.0,0.0,1258.0
+jharkhand,Health worker (female),Sub Centre,3848,3957.0,7489.0,,-3641.0,0.0,3641.0
+karnataka,Health worker (female),Sub Centre,9381,9919.0,7152.0,2229.0,2229.0,2229.0,0.0
+kerala,Health worker (female),Sub Centre,5380,4575.0,4590.0,790.0,790.0,790.0,0.0
+madhya pradesh,Health worker (female),Sub Centre,9192,11886.0,9860.0,,-668.0,0.0,668.0
+maharashtra,Health worker (female),Sub Centre,10580,16801.0,10613.0,,-33.0,0.0,33.0
+manipur,Health worker (female),Sub Centre,421,842.0,750.0,,-329.0,0.0,329.0
+meghalaya,Health worker (female),Sub Centre,436,903.0,790.0,,-354.0,0.0,354.0
+mizoram,Health worker (female),Sub Centre,370,405.0,622.0,,-252.0,0.0,252.0
+nagaland,Health worker (female),Sub Centre,396,408.0,702.0,,-306.0,0.0,306.0
+odisha,Health worker (female),Sub Centre,6688,6688.0,7169.0,,-481.0,0.0,481.0
+punjab,Health worker (female),Sub Centre,2950,5109.0,4674.0,,-1724.0,0.0,1724.0
+rajasthan,Health worker (female),Sub Centre,14406,19313.0,14271.0,135.0,135.0,135.0,0.0
+sikkim,Health worker (female),Sub Centre,147,147.0,127.0,20.0,20.0,20.0,0.0
+tamil nadu,Health worker (female),Sub Centre,8712,8712.0,6835.0,1877.0,1877.0,1877.0,0.0
+telangana,Health worker (female),Sub Centre,4797,9655.0,7848.0,,-3051.0,0.0,3051.0
+tripura,Health worker (female),Sub Centre,987,432.0,582.0,405.0,405.0,405.0,0.0
+uttarakhand,Health worker (female),Sub Centre,1847,2000.0,1909.0,,-62.0,0.0,62.0
+uttar pradesh,Health worker (female),Sub Centre,20521,23695.0,28250.0,,-7729.0,0.0,7729.0
+west bengal,Health worker (female),Sub Centre,10369,20000.0,18253.0,,-7884.0,0.0,7884.0
+a and n islands,Health worker (female),Sub Centre,123,255.0,241.0,,-118.0,0.0,118.0
+chandigarh,Health worker (female),Sub Centre,17,24.0,24.0,,-7.0,0.0,7.0
+dadra and nagar haveli,Health worker (female),Sub Centre,71,36.0,90.0,,-19.0,0.0,19.0
+daman and diu,Health worker (female),Sub Centre,26,45.0,43.0,,-17.0,0.0,17.0
+delhi,Health worker (female),Sub Centre,10,16.0,14.0,,-4.0,0.0,4.0
+lakshadweep,Health worker (female),Sub Centre,14,24.0,28.0,,-14.0,0.0,14.0
+puducherry,Health worker (female),Sub Centre,81,108.0,109.0,,-28.0,0.0,28.0
+andhra pradesh,Health worker (male),Sub Centre,7458,5021.0,2964.0,4494.0,4494.0,4494.0,0.0
+arunachal pradesh,Health worker (male),Sub Centre,312,,92.0,220.0,220.0,220.0,0.0
+assam,Health worker (male),Sub Centre,4621,3000.0,2783.0,1838.0,1838.0,1838.0,0.0
+bihar,Health worker (male),Sub Centre,9949,2135.0,1244.0,8705.0,8705.0,8705.0,0.0
+chhattisgarh,Health worker (male),Sub Centre,5186,5186.0,3856.0,1330.0,1330.0,1330.0,0.0
+goa,Health worker (male),Sub Centre,214,86.0,86.0,128.0,128.0,128.0,0.0
+gujarat,Health worker (male),Sub Centre,9082,9069.0,7888.0,1194.0,1194.0,1194.0,0.0
+haryana,Health worker (male),Sub Centre,2589,2138.0,1217.0,1372.0,1372.0,1372.0,0.0
+himachal pradesh,Health worker (male),Sub Centre,2083,2036.0,829.0,1254.0,1254.0,1254.0,0.0
+jammu and kashmir,Health worker (male),Sub Centre,2967,817.0,672.0,2295.0,2295.0,2295.0,0.0
+jharkhand,Health worker (male),Sub Centre,3848,2150.0,1654.0,2194.0,2194.0,2194.0,0.0
+karnataka,Health worker (male),Sub Centre,9381,5861.0,3252.0,6129.0,6129.0,6129.0,0.0
+kerala,Health worker (male),Sub Centre,5380,3401.0,3401.0,1979.0,1979.0,1979.0,0.0
+madhya pradesh,Health worker (male),Sub Centre,9192,4260.0,3707.0,5485.0,5485.0,5485.0,0.0
+maharashtra,Health worker (male),Sub Centre,10580,7853.0,4570.0,6010.0,6010.0,6010.0,0.0
+manipur,Health worker (male),Sub Centre,421,469.0,374.0,47.0,47.0,47.0,0.0
+meghalaya,Health worker (male),Sub Centre,436,84.0,192.0,244.0,244.0,244.0,0.0
+mizoram,Health worker (male),Sub Centre,370,382.0,366.0,4.0,4.0,4.0,0.0
+nagaland,Health worker (male),Sub Centre,396,,,,,,
+odisha,Health worker (male),Sub Centre,6688,4548.0,3617.0,3071.0,3071.0,3071.0,0.0
+punjab,Health worker (male),Sub Centre,2950,2958.0,1424.0,1526.0,1526.0,1526.0,0.0
+rajasthan,Health worker (male),Sub Centre,14406,2241.0,1159.0,13247.0,13247.0,13247.0,0.0
+sikkim,Health worker (male),Sub Centre,147,147.0,86.0,61.0,61.0,61.0,0.0
+tamil nadu,Health worker (male),Sub Centre,8712,3292.0,2109.0,6603.0,6603.0,6603.0,0.0
+telangana,Health worker (male),Sub Centre,4797,2628.0,1769.0,3028.0,3028.0,3028.0,0.0
+tripura,Health worker (male),Sub Centre,987,574.0,735.0,252.0,252.0,252.0,0.0
+uttarakhand,Health worker (male),Sub Centre,1847,329.0,67.0,1780.0,1780.0,1780.0,0.0
+uttar pradesh,Health worker (male),Sub Centre,20521,9080.0,3835.0,16686.0,16686.0,16686.0,0.0
+west bengal,Health worker (male),Sub Centre,10369,9457.0,2174.0,8195.0,8195.0,8195.0,0.0
+a and n islands,Health worker (male),Sub Centre,123,45.0,45.0,78.0,78.0,78.0,0.0
+chandigarh,Health worker (male),Sub Centre,17,2.0,2.0,15.0,15.0,15.0,0.0
+dadra and nagar haveli,Health worker (male),Sub Centre,71,9.0,63.0,8.0,8.0,8.0,0.0
+daman and diu,Health worker (male),Sub Centre,26,24.0,17.0,9.0,9.0,9.0,0.0
+delhi,Health worker (male),Sub Centre,10,0.0,0.0,10.0,10.0,10.0,0.0
+lakshadweep,Health worker (male),Sub Centre,14,14.0,14.0,0.0,0.0,0.0,-0.0
+puducherry,Health worker (male),Sub Centre,81,0.0,0.0,81.0,81.0,81.0,0.0

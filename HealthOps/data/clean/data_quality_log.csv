@@ -1,0 +1,10 @@
+issue,treatment,rows
+"Rows with columns shifted one place (address=latitude, latitude=longitude)",Repaired by shifting values back; address set to null,2
+State = 'Andhra Pradesh Old' (pre-2014 undivided AP; overlaps AP and Telangana rows),EXCLUDED from model (would double-count); kept in excluded_andhra_pradesh_old.csv,9829
+Exact duplicate rows,"First kept, copies written to rejects_exact_duplicates.csv",8
+"Latitude/longitude swapped (lat in 68-97, lon in 6-37)",Swapped back,134
+Coordinates missing/non-numeric,Facility kept in counts; coordinates null (not on map),73
+"Coordinates outside India sanity box (6-37.6N, 68-97.6E), incl. zeros",Facility kept in counts; coordinates null (not on map),419
+Rows read / rows in fact_facility,-,200438 / 190601
+Staffing rows with null Required or In Position,Kept as null (not imputed),1
+File 'Shortfall' differs from Required-InPosition (where both exist),Recomputed shortfall used; file column kept as file_shortfall,0

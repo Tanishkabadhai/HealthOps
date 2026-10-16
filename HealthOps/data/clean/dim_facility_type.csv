@@ -1,0 +1,6 @@
+type_code,type_label,type_order
+sub_cen,Sub Centre,1
+phc,PHC,2
+chc,CHC,3
+s_t_h,Sub-district / State Hospital,4
+dis_h,District Hospital,5
